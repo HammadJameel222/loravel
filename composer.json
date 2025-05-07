@@ -1,0 +1,16 @@
+{
+    "name": "hp/loravel",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Loravel\\": "src/",
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "HammadJameel222",
+            "email": "hammadjameel222@gmail.com"
+        }
+    ],
+    "require": {}
+}
